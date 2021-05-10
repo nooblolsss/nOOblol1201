@@ -1,2 +1,2 @@
-local queue_on_teleport = queue_on_teleport or syn and syn.queue_on_teleport [[loadstring(game:HttpGet('https://raw.githubusercontent.com/nooblolsss/nOOblol1201/main/somesome-pls-help'))()
-]]
+local queue_on_teleport = queue_on_teleport or syn and syn.queue_on_teleport
+[[loadstring(game:HttpGet('https://github.com/nooblolsss/nOOblol1201/blob/main/somesome-pls-help'))()]]
